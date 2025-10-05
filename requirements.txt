@@ -1,0 +1,11 @@
+pyttsx3
+SpeechRecognition
+spotipy
+openai
+deep-translator
+psutil
+google-generativeai
+colorama
+requests
+playsound==1.2.2
+edge-tts
