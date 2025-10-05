@@ -151,6 +151,8 @@ Friday_male.V
 ├── requirements.txt         # Dependencies
 ```
 
+<img width="1311" height="871" alt="Screenshot 2025-10-05 183638" src="https://github.com/user-attachments/assets/51948c51-c74e-466d-a2b0-6d614b60747b" />
+
 ### 👨‍💻 About the Creator
 ----- Shubham Rathod ----- 
 ---
@@ -171,7 +173,8 @@ You are free to view and use the source code for learning, but redistribution or
 
 ---
 
-### 🗣️ “Your voice, your AI — meet FRIDAY.”
+### 🗣️ “Your voice, your AI — meet FRIDAY.
+
 — Developed with 💙 by Shubham Rathod
 
 
