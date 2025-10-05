@@ -177,4 +177,4 @@ You are free to view and use the source code for learning, but redistribution or
 
 ---
 
-All rights reserved : Shubham Rathod
+© 2025 All Rights Reserved : Shubham Rathod
