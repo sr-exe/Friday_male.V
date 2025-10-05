@@ -150,11 +150,6 @@ Friday-AI-Assistant/
 ├── friday.py                # Main executable file
 ├── README.md                # Project documentation
 ├── requirements.txt         # Dependencies
-├── jarvis_memory.json       # Stores local memory
-├── jarvis_aliases.json      # Stores user-defined aliases
-└── assets/                  # (Optional) Audio or visual assets
-🪄 Quick Demo (Optional Section)
-If you add demo visuals later:
 ```
 
 ### 👨‍💻 About the Creator
