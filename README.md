@@ -1,5 +1,5 @@
 # Friday_male.V
-# 🤖 FRIDAY — Your Personal AI Assistant for Windows  
+# 🤖 FRIDAY — Your Personal AI automation
 ### Developed by **Shubham Rathod**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
