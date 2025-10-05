@@ -73,7 +73,7 @@ It works both through **voice** and **text commands**, understands **Hindi & Eng
 
 ### 1️⃣ Clone or Download Repository
 ```bash
-git clone https://github.com/<your-username>/Friday-AI-Assistant.git
+github clone : https://github.com/sr-exe/Friday_male.V.git
 cd Friday-AI-Assistant
 ```
 2️⃣ Install Dependencies
