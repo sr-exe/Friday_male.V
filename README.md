@@ -180,4 +180,4 @@ You are free to view and use the source code for learning, but redistribution or
 
 ---
 
-© 2025 All Rights Reserved : Shubham Rathod
+© 2025 Shubham Rathod. All rights reserved.
