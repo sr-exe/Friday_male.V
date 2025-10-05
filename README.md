@@ -74,11 +74,10 @@ It works both through **voice** and **text commands**, understands **Hindi & Eng
 ### 1️⃣ Clone or Download Repository
 ```bash
 github clone : https://github.com/sr-exe/Friday_male.V.git
-cd Friday-AI-Assistant
+cd Friday_male.V
 ```
 2️⃣ Install Dependencies
 ```bash
-Copy code
 pip install -r requirements.txt
 If you prefer only offline functionality:
 
@@ -144,8 +143,8 @@ Then FRIDAY will greet you in Hindi and start listening or accepting typed comma
 
 ### 🧑‍💻 Project Structure
 ``` bash
-Copy code
-Friday-AI-Assistant/
+
+Friday_male.V
 │
 ├── friday.py                # Main executable file
 ├── README.md                # Project documentation
