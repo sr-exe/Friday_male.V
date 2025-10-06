@@ -101,10 +101,10 @@ You can skip this step for offline mode.
 python friday.py
 ```
 You’ll see:
-[ Booting Jarvis AI OS ... ]
-[ Initializing modules ... ]
-[ Welcome, Shubham. All systems online. ]
-Then FRIDAY will greet you in Hindi and start listening or accepting typed commands.
+-[Booting  ... ]
+-[ Initializing modules ... ]
+-[ Welcome, Shubham. All systems are online. ]
+=Then FRIDAY will greet you in Hindi and start listening or accepting typed commands.
 
 
 ---
