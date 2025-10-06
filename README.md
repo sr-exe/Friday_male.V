@@ -73,7 +73,7 @@ It works both through **voice** and **text commands**, understands **Hindi & Eng
 
 ### 1️⃣ Clone or Download Repository
 ```bash
-github clone : https://github.com/sr-exe/Friday_male.V.git
+git clone : https://github.com/sr-exe/Friday_male.V.git
 cd Friday_male.V
 ```
 2️⃣ Install Dependencies
