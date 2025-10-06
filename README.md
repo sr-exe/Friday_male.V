@@ -99,15 +99,15 @@ You can skip this step for offline mode.
 4️⃣ Run FRIDAY
 ``` bash
 python friday.py
+```
 You’ll see:
-
-css
-Copy code
 [ Booting Jarvis AI OS ... ]
 [ Initializing modules ... ]
 [ Welcome, Shubham. All systems online. ]
 Then FRIDAY will greet you in Hindi and start listening or accepting typed commands.
-```
+
+
+---
 
 ### 🧭 Usage Examples
 -Action	Command
