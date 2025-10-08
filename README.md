@@ -191,7 +191,8 @@ Friday_male.V
 <img width="1311" height="871" alt="Screenshot 2025-10-05 183638" src="https://github.com/user-attachments/assets/51948c51-c74e-466d-a2b0-6d614b60747b" />
 
 ## updated FRIDAY V1
-<img width="1306" height="828" alt="Screenshot 2025-10-08 115754" src="https://github.com/user-attachments/assets/db95789b-d0de-49b4-b55c-16fe6c847dbf" />
+<img width="1306" height="740" alt="Screenshot 2025-10-08 115754" src="https://github.com/user-attachments/assets/a952efc8-6d24-40a7-90a8-e76651cfc8bb" />
+
 
 ### 👨‍💻 About the Creator
 ----- Shubham Rathod ----- 
