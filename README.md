@@ -197,7 +197,7 @@ Friday_male.V
 ### 👨‍💻 About the Creator
 ----- Shubham Rathod ----- 
 ---
-Aspiring new technologies | Stuudent | Automation Enthusiast
+Aspiring new technologies | Student | Automation Enthusiast
 
 ### 💬 “I built FRIDAY to make daily computing smarter, faster, and more natural — using my own AI-powered assistant.”
 
