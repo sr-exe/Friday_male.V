@@ -12,7 +12,7 @@
 
 ## 🌟 Overview
 
-**FRIDAY** (Fully Responsive Intelligent Dynamic Assistant by You) is a **next-generation personal AI assistant** built completely by **Shubham Rathod** in Python.
+**FRIDAY** (Fully Responsive Intelligent Dynamic Assistant) it is a **next-generation personal AI assistant** 
 
 It works both through **voice** and **text commands**, understands **Hindi & English**, speaks naturally using **text-to-speech**, and can perform intelligent actions such as opening apps, searching music, generating code, retrieving information using AI, and more — all in one file.
 
