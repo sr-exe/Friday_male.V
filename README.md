@@ -144,6 +144,7 @@ You’ll see:
 -✅ API keys are optional and stored safely in your environment variables.
 -✅ No hidden logging or analytics.
 -✅ 100% offline-compatible design.
+still working on it.
 
 ### 🧑‍💻 Project Structure
 ``` bash
